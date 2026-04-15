@@ -18,7 +18,7 @@ A modern and responsive Weather Application that provides real-time weather upda
 
 - Frontend: HTML, CSS, JavaScript / React (if used)
 - Backend: (optional – if you used)
-- API: OpenWeatherMap API (or your API)
+- API: OpenWeatherMap API (or your API )
 - Tools: Git, GitHub
 
 ---
